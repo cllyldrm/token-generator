@@ -1,5 +1,8 @@
 # Token Generator
 
+[![Build status](https://ci.appveyor.com/api/projects/status/qpppx3v2qj9uqghy?svg=true)](https://ci.appveyor.com/project/cllyldrm/token-generator)
+[![TokenGenerator.Jwt](https://img.shields.io/nuget/v/TokenGenerator.Jwt.svg?maxAge=3600)](https://www.nuget.org/packages/TokenGenerator.Jwt/)
+
 You can generate jwt tokens, refresh tokens and decode jwt tokens with this library on .net core projects.
 
 ## Getting Started
